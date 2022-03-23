@@ -3,7 +3,7 @@ Game description
 JT Billick, Max Schroeder, Sophie Kolb, Sadie Greenberg
 
 ## GUI Mockup #1
-![Start Screen] ()
+! [Gameplay Screen] ()
 
 ## GUI Mockup #2
 ![Start Screen] ()
