@@ -14,7 +14,8 @@ Group Members: Sophie Kolb, John Billick, Max Schroeder, and Sadie Greenberg
 }
 
 ## Class Diagram #1
-![Class Diagram] {}
+![Class Diagram] {<img width="602" alt="Screen Shot 2022-03-28 at 11 54 10 AM (6)" src="https://user-images.githubusercontent.com/101136474/160461060-3999961c-c5c6-4fd2-a8f4-37a9f2be9909.png">}
+
 
 # Project Proposal 2: Battle Ship
 User will try to destroy their opponent's battle ship by choosing places on the ship to shoot at without being able to see it before the opponent destroys the user's ship. 
