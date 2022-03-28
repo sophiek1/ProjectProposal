@@ -27,4 +27,4 @@ JT Billick, Max Schroeder, Sophie Kolb, Sadie Greenberg
 ![![4 square board]()] ()
 
 ## GUI Mockup #3 (End of game)
-![End Screen] (https://graniteschools.instructure.com/groups/283107/files/121119349/preview)] ()
+![End Screen] (https://graniteschools.instructure.com/groups/283107/files/121119349/preview)
